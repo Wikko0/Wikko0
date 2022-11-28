@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Junior%20PHP%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000" />
 </p>
 
-I'm new back-end PHP developer. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I mostly use Laravel framework but I can handle any new challenge.
+I'm a new back-end PHP developer. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I mostly use Laravel framework but I can handle any new challenge.
 
 
 ---
